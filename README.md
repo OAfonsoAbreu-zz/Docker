@@ -4,7 +4,7 @@ Projeto para reunir conhecimento e testes do Docker
 
 ## Comandos
 
-**docker container run *<imagem>* *<comando>* **: Baixa imagem, Cria container, executa container, executa o comando e finaliza container.
+**docker container run *<imagem>* *<comando>* ** : Baixa imagem, Cria container, executa container, executa o comando e finaliza container.
   
 **docker container run -it *<imagem>* *<comando>* **: Baixa imagem, Cria container, executa container, executa o comando e mantém container ativo e permitindo interação via terminal.
   

@@ -18,6 +18,6 @@ Projeto para reunir conhecimento e testes do Docker
   
 #### docker container rm "containerID": Remove um container criado.
 
-#### docker container run --name "nome" -p 8080:80 "imagem": Cria um container com um nome especifico e uma porta externa (8080) para acessar uma porta interna (80).
+#### docker container run --name "nome" -p 8080:80 -d "imagem": Cria um container com um nome especifico e uma porta externa (8080) para acessar uma porta interna (80) e executar em segundo plano (-d)
   
 ****:

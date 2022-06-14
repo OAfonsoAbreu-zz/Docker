@@ -28,8 +28,12 @@ Projeto para reunir conhecimento e testes do Docker
 
 #### docker container start -ia "containerID": Iniciar o projeto com terminal interativo (-ia).
 
-#### docker iamge rm "containerID": Remove uma imagem.
+#### docker image rm "containerID": Remove uma imagem.
+
+#### docker image ls: Lista as imagens já instaladas.
 
 #### docker image prune: Remover todas imagens sem uso.
+
+#### docker ps: Lista de containers em execução.
   
 ****:
